@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ulises2 on Example Site</title>
-    <link>http://example.org/ulises/ulises2/</link>
+    <link>https://iulises32.github.io/ulises/ulises2/</link>
     <description>Recent content in Ulises2 on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 15:33:33 -0500</lastBuildDate><atom:link href="http://example.org/ulises/ulises2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 15:33:33 -0500</lastBuildDate><atom:link href="https://iulises32.github.io/ulises/ulises2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F</title>
-      <link>http://example.org/ulises/ulises2/f/</link>
+      <link>https://iulises32.github.io/ulises/ulises2/f/</link>
       <pubDate>Wed, 26 May 2021 17:51:23 -0500</pubDate>
       
-      <guid>http://example.org/ulises/ulises2/f/</guid>
+      <guid>https://iulises32.github.io/ulises/ulises2/f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E</title>
-      <link>http://example.org/ulises/ulises2/e/</link>
+      <link>https://iulises32.github.io/ulises/ulises2/e/</link>
       <pubDate>Wed, 26 May 2021 17:51:06 -0500</pubDate>
       
-      <guid>http://example.org/ulises/ulises2/e/</guid>
+      <guid>https://iulises32.github.io/ulises/ulises2/e/</guid>
       <description></description>
     </item>
     
