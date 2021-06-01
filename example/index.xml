@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Site</title>
-    <link>https://iulises32.github.io/</link>
+    <link>https://iulises32.github.io/example/</link>
     <description>Recent content on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 15:33:33 -0500</lastBuildDate><atom:link href="https://iulises32.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 15:33:33 -0500</lastBuildDate><atom:link href="https://iulises32.github.io/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>G</title>
-      <link>https://iulises32.github.io/ulises/g/</link>
+      <link>https://iulises32.github.io/example/ulises/g/</link>
       <pubDate>Wed, 26 May 2021 17:51:27 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/ulises/g/</guid>
+      <guid>https://iulises32.github.io/example/ulises/g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F</title>
-      <link>https://iulises32.github.io/ulises/ulises2/f/</link>
+      <link>https://iulises32.github.io/example/ulises/ulises2/f/</link>
       <pubDate>Wed, 26 May 2021 17:51:23 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/ulises/ulises2/f/</guid>
+      <guid>https://iulises32.github.io/example/ulises/ulises2/f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E</title>
-      <link>https://iulises32.github.io/ulises/ulises2/e/</link>
+      <link>https://iulises32.github.io/example/ulises/ulises2/e/</link>
       <pubDate>Wed, 26 May 2021 17:51:06 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/ulises/ulises2/e/</guid>
+      <guid>https://iulises32.github.io/example/ulises/ulises2/e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D</title>
-      <link>https://iulises32.github.io/ulises/d/</link>
+      <link>https://iulises32.github.io/example/ulises/d/</link>
       <pubDate>Wed, 26 May 2021 17:50:51 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/ulises/d/</guid>
+      <guid>https://iulises32.github.io/example/ulises/d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School</title>
-      <link>https://iulises32.github.io/b/</link>
+      <link>https://iulises32.github.io/example/b/</link>
       <pubDate>Wed, 26 May 2021 17:43:08 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/b/</guid>
+      <guid>https://iulises32.github.io/example/b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My life</title>
-      <link>https://iulises32.github.io/a/</link>
+      <link>https://iulises32.github.io/example/a/</link>
       <pubDate>Wed, 26 May 2021 17:30:06 -0500</pubDate>
       
-      <guid>https://iulises32.github.io/a/</guid>
+      <guid>https://iulises32.github.io/example/a/</guid>
       <description></description>
     </item>
     
